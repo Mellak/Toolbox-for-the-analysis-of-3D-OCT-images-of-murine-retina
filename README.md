@@ -1,5 +1,5 @@
 
-# A Machine Learning Framework for the Quantification of Experimental Uveitis in Murine OCT
+# Toolbox for the analysis of 3D OCT images of murine retina
 
 This repository contains the code and data for the project described in the paper "A Machine Learning Framework for the Quantification of Experimental Uveitis in Murine OCT". The paper is available at https://preprints.opticaopen.org/articles/preprint/A_Machine_Learning_Framework_for_the_Quantification_of_Experimental_Uveitis_in_Murine_OCT/22222147.
 
