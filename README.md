@@ -5,11 +5,11 @@
 
 This repository contains the code and data for the project described in the paper "A Machine Learning Framework for the Quantification of Experimental Uveitis in Murine OCT", published in *Biomedical Optics Express* ([DOI: 10.1364/BOE.489271](https://doi.org/10.1364/BOE.489271)).
 
-## Appendix
+## Acknowledgements
 
 This work was done in the context of a Master 2 final internship, conducted under the supervision of:
 
-    - Xavier Descombre from Université Côte d’Azur, INRIA, CNRS, I3S, Sophia Antipolis, France.
+    - Xavier Descombes from Université Côte d’Azur, INRIA, CNRS, I3S, Sophia Antipolis, France.
     - Alin Achim from University of Bristol, Bristol, United Kingdom.
 
 We would like to express our gratitude for their guidance, support, and valuable insights throughout the project.
